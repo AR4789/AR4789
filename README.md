@@ -9,7 +9,7 @@
 
 - 💼 Backend Software Engineer at **RxLogix Corp**
 - 🔧 2+ years of experience building scalable microservices using **Java (Spring Boot)** and **Node.js**
-- 🌱 Currently exploring **cloud-native development**, **system design**, and **distributed systems**
+- 🌱 Currently exploring **Spring Boot Development**, **system design**, and **Artificial Intelligence and Generative AI**
 - 💡 Passionate about automation, clean architecture, and end-to-end product development
 - 📫 Reach me at: [amanr1871@gmail.com](mailto:amanr1871@gmail.com)
 
