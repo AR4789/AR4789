@@ -18,7 +18,7 @@
 ### 🛠️ Tech Stack
 
 **Languages**: Java, JavaScript, Python  
-**Frameworks & Libraries**: Spring Boot, Express.js, React.js  
+**Frameworks & Libraries**: Spring Boot, Express.js, Node.js, React.js  
 **Databases**: MongoDB, MySQL, Redis  
 **DevOps**: Docker, Jenkins, AWS, CI/CD  
 **Other**: REST APIs, WebSockets, Git, JWT, OAuth2, Postman
