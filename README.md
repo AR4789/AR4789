@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Rai</h1>
 <p align="center">
-  Backend Software Engineer | Java | Spring Boot | MERN Stack | DevOps Enthusiast
+  Backend Software Engineer | Java | Spring Boot | MERN Stack | DevOps | AI Enthusiast
 </p>
 
 ---
@@ -8,9 +8,9 @@
 ### 👨‍💻 About Me
 
 - 💼 Backend Software Engineer at **RxLogix Corp**
-- 🔧 2+ years of experience building scalable microservices using **Java (Spring Boot)** and **Node.js**
+- 🔧 2+ years of experience building scalable microservices using **Java**, **Spring Boot** and **MERN Stack**
 - 🌱 Currently exploring **Spring Boot Development**, **system design**, and **Artificial Intelligence and Generative AI**
-- 💡 Passionate about automation, clean architecture, and end-to-end product development
+- 💡 Passionate about artificial intelligence, automation, clean architecture, and end-to-end product development
 - 📫 Reach me at: [amanr1871@gmail.com](mailto:amanr1871@gmail.com)
 
 ---
@@ -21,7 +21,7 @@
 **Frameworks & Libraries**: Spring Boot, Express.js, Node.js, React.js  
 **Databases**: MongoDB, MySQL, Redis  
 **DevOps**: Docker, Jenkins, AWS, CI/CD  
-**Other**: REST APIs, WebSockets, Git, JWT, OAuth2, Postman
+**Other**: REST APIs, WebSockets, Git, JWT, OAuth2, Postman, Kafka
 
 ---
 
