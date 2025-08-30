@@ -38,9 +38,9 @@ Here are a few highlights from my recent work:
 
 ### 🌐 Connect with Me
 
-- 📫 Email: [amanr1871@gmail.com](mailto:amanr1871@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/amanrai4789](https://www.linkedin.com/in/amanrai4789)  
-- 💻 GitHub: [github.com/AR4789](https://github.com/AR4789)
+- 📫 Email: [Email Me](mailto:amanr1871@gmail.com)  
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/amanrai-008178191)  
+- 💻 GitHub: [Github Profile](https://github.com/AR4789)
 
 ---
 
