@@ -32,7 +32,7 @@ Here are a few highlights from my recent work:
 - 🔹 **[Autopilot](https://github.com/AR4789/Autopilot)** | 🌐 [Live Demo](https://autopilot-launch.netlify.app/)  
   Automates SQL/script-based manual workflows using Spring Boot & React. Reduced setup time by 35%.
 - 🔹 **[Postmaker](https://github.com/AR4789/Postmaker)**: A real-time MERN stack social platform with chat, posts, and secure authentication.
-- - 🔹 **[Digital Lounge](https://github.com/AR4789/Digital_Lounge)**:A digital interface that allows customers to order food directly from their rooms or tables and pay the bill online, eliminating the need for any offline process or hassle.
+- 🔹 **[Digital Lounge](https://github.com/AR4789/Digital_Lounge)**:A digital interface that allows customers to order food directly from their rooms or tables and pay the bill online, eliminating the need for any offline process or hassle.
 - 🔹 **[AI Resume Agent](https://github.com/AR4789/Resume_Agent)**: AI-powered resume analyser and optimizer which boosts your ATS by redesigning your resume according to the given job description.
 
 ---
