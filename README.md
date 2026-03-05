@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Rai</h1>
 <p align="center">
-  Backend Software Engineer | Java | Spring Boot | MERN Stack | DevOps | AI Enthusiast
+  Software Engineer | Java(Spring Boot) | MERN Stack | Scalable Systems 
 </p>
 
 ---
@@ -8,9 +8,9 @@
 ### 👨‍💻 About Me
 
 - 💼 Backend Software Engineer at **RxLogix Corp**
-- 🔧 2+ years of experience building scalable microservices using **Java**, **Spring Boot** and **MERN Stack**
-- 🌱 Currently exploring **Spring Boot Development**, **system design**, and **Artificial Intelligence and Generative AI**
-- 💡 Passionate about artificial intelligence, automation, clean architecture, and end-to-end product development
+- 🔧 3 years of experience building scalable microservices using **Java**, **Spring Boot** and **MERN Stack**
+- 🌱 Currently exploring **Spring Boot Development**, **MERN Stack** or **Software Engineering**
+- 💡 Passionate about robust scalable systems, automation, clean architecture, and end-to-end product development
 - 📫 Reach me at: [amanr1871@gmail.com](mailto:amanr1871@gmail.com)
 
 ---
@@ -29,9 +29,11 @@
 
 Here are a few highlights from my recent work:
 
-- 🔹 **[Autopilot](https://github.com/AR4789/Autopilot)**: Automates SQL/script-based manual workflows using Spring Boot & React. Reduced setup time by 35%.
+- 🔹 **[Autopilot](https://github.com/AR4789/Autopilot)** | 🌐 [Live Demo](https://autopilot-launch.netlify.app/)  
+  Automates SQL/script-based manual workflows using Spring Boot & React. Reduced setup time by 35%.
 - 🔹 **[Postmaker](https://github.com/AR4789/Postmaker)**: A real-time MERN stack social platform with chat, posts, and secure authentication.
-- 🔹 **[TripMate](https://github.com/AR4789/Tripmate)**: AI-powered trip planner with live tracking, route optimization using Google Maps API.
+- - 🔹 **[Digital Lounge](https://github.com/AR4789/Digital_Lounge)**:A digital interface that allows customers to order food directly from their rooms or tables and pay the bill online, eliminating the need for any offline process or hassle.
+- 🔹 **[AI Resume Agent](https://github.com/AR4789/Resume_Agent)**: AI-powered resume analyser and optimizer which boosts your ATS by redesigning your resume according to the given job description.
 
 ---
 
@@ -40,7 +42,8 @@ Here are a few highlights from my recent work:
 
 - 📫 Email: [Email Me](mailto:amanr1871@gmail.com)  
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/amanrai-008178191)  
-- 💻 GitHub: [Github Profile](https://github.com/AR4789)
+- 💻 GitHub: [Github Profile](https://github.com/AR4789)  
+- 🌐 Portfolio: [My Portfolio](https://amanrai-porfolio.netlify.app/)
 
 ---
 
