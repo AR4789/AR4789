@@ -81,16 +81,6 @@ An **AI-powered resume analyzer** that generates **ATS-optimized resumes** based
 
 ---
 
-## 📊 GitHub Stats
-
-![Aman GitHub stats](https://github-readme-stats.vercel.app/api?username=AR4789&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AR4789&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AR4789&layout=compact&theme=tokyonight)
-
----
-
 ## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
