@@ -63,12 +63,12 @@ A **real-time MERN stack social platform** with posts, chat, and authentication 
 
 ---
 
-### 🔹 Digital Lounge
+### 🔹 Codepilot
 
 **Repo:**  
-https://github.com/AR4789/Digital_Lounge
+https://github.com/AR4789/Codepilot
 
-A **digital food ordering system** where customers can order from their **tables/rooms and pay online**.
+An **AI-powered Code Reviewing System** which analyses and reviews you code and return proper **codefix and suggestions.**
 
 ---
 
