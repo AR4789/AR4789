@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aman Rai
 
-### Software Engineer | Java • Spring Boot • MERN Stack | Scalable Systems
+### Software Engineer | Java • Spring Boot • MERN Stack | Scalable Systems | Automation
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;Building+Scalable+Systems;Backend+%26+Automation+Enthusiast)
 
